@@ -9,140 +9,140 @@
       "level": "Beginner",
       "text": "Encrypt the given message using the Caesar cipher with a shift of 3.",
       "links": ["link1", "link2"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Crypto Challenge 2",
       "level": "Intermediate",
       "text": "Decode the given base64-encoded message and find the hidden message.",
       "links": ["link3"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Crypto Challenge 3",
       "level": "Advanced",
       "text": "Crack the given Vigenère cipher with a keyword of length 5.",
       "links": ["link4", "link5"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Crypto Challenge 4",
       "level": "Expert",
       "text": "Decrypt the RSA-encrypted message and find the original plaintext.",
       "links": ["link6", "link7"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Crypto Challenge 5",
       "level": "Beginner",
       "text": "Identify the hashing algorithm used to hash the given password.",
       "links": ["link8"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Crypto Challenge 6",
       "level": "Intermediate",
       "text": "Decrypt the given Playfair cipher and reveal the hidden message.",
       "links": ["link9"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Crypto Challenge 7",
       "level": "Advanced",
       "text": "Break the given transposition cipher with a columnar key.",
       "links": ["link10", "link11"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Crypto Challenge 8",
       "level": "Expert",
       "text": "Find the private key used to sign the given message using DSA.",
       "links": ["link12", "link13"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Crypto Challenge 9",
       "level": "Beginner",
       "text": "Crack the simple substitution cipher used to encrypt the given text.",
       "links": ["link14"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Crypto Challenge 10",
       "level": "Intermediate",
       "text": "Decrypt the given elliptic curve encrypted message.",
       "links": ["link15"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Crypto Challenge 11",
       "level": "Advanced",
       "text": "Identify the cryptographic weakness in the given RSA implementation.",
       "links": ["link16", "link17"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Crypto Challenge 12",
       "level": "Expert",
       "text": "Break the Hill cipher used to encrypt the given plaintext.",
       "links": ["link18", "link19"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Crypto Challenge 13",
       "level": "Beginner",
       "text": "Decrypt the given message encrypted using the Rail Fence cipher.",
       "links": ["link20"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Crypto Challenge 14",
       "level": "Intermediate",
       "text": "Identify the hashing algorithm and find the original input for the given hash.",
       "links": ["link21"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Crypto Challenge 15",
       "level": "Advanced",
       "text": "Decode the given XOR-encrypted message and reveal the hidden text.",
       "links": ["link22", "link23"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Crypto Challenge 16",
       "level": "Expert",
       "text": "Break the given Feistel cipher and decrypt the ciphertext.",
       "links": ["link24", "link25"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Crypto Challenge 17",
       "level": "Beginner",
       "text": "Decrypt the given message encrypted using the Atbash cipher.",
       "links": ["link26"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Crypto Challenge 18",
       "level": "Intermediate",
       "text": "Crack the double columnar transposition cipher used to encrypt the text.",
       "links": ["link27"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Crypto Challenge 19",
       "level": "Advanced",
       "text": "Identify the cryptographic flaw in the given ElGamal encryption scheme.",
       "links": ["link28", "link29"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Crypto Challenge 20",
       "level": "Expert",
       "text": "Break the given homomorphic encryption and find the original message.",
       "links": ["link30", "link31"],
-      "hintAvailable": false
+      "hint": "---"
     }
   ],
 
@@ -155,140 +155,140 @@
       "level": "Beginner",
       "text": "Examine the given image file and recover the hidden message.",
       "links": ["link1", "link2"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Forensic Challenge 2",
       "level": "Intermediate",
       "text": "Analyze the packet capture file and extract the transmitted data.",
       "links": ["link3"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Forensic Challenge 3",
       "level": "Advanced",
       "text": "Recover deleted files from the provided storage device image.",
       "links": ["link4", "link5"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Forensic Challenge 4",
       "level": "Expert",
       "text": "Investigate the given memory dump and identify the injected malware.",
       "links": ["link6", "link7"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Forensic Challenge 5",
       "level": "Beginner",
       "text": "Analyze the network traffic log and identify the suspicious activity.",
       "links": ["link8"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Forensic Challenge 6",
       "level": "Intermediate",
       "text": "Examine the provided email headers and trace the source of the phishing email.",
       "links": ["link9"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Forensic Challenge 7",
       "level": "Advanced",
       "text": "Analyze the given audio file for hidden messages or anomalies.",
       "links": ["link10", "link11"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Forensic Challenge 8",
       "level": "Expert",
       "text": "Recover the deleted registry entries from the provided Windows system image.",
       "links": ["link12", "link13"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Forensic Challenge 9",
       "level": "Beginner",
       "text": "Inspect the file metadata and identify the software used to create the document.",
       "links": ["link14"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Forensic Challenge 10",
       "level": "Intermediate",
       "text": "Analyze the memory dump and identify the process responsible for suspicious behavior.",
       "links": ["link15"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Forensic Challenge 11",
       "level": "Advanced",
       "text": "Recover the deleted chat messages from the provided messaging app data.",
       "links": ["link16", "link17"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Forensic Challenge 12",
       "level": "Expert",
       "text": "Investigate the disk image and identify the encryption algorithm used to encrypt the files.",
       "links": ["link18", "link19"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Forensic Challenge 13",
       "level": "Beginner",
       "text": "Analyze the log files and identify the time of the security incident.",
       "links": ["link20"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Forensic Challenge 14",
       "level": "Intermediate",
       "text": "Examine the smartphone image and recover deleted photos or messages.",
       "links": ["link21"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Forensic Challenge 15",
       "level": "Advanced",
       "text": "Analyze the network capture to identify the attack vector used in the intrusion.",
       "links": ["link22", "link23"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Forensic Challenge 16",
       "level": "Expert",
       "text": "Recover the corrupted video file and identify the contents of the original recording.",
       "links": ["link24", "link25"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Forensic Challenge 17",
       "level": "Beginner",
       "text": "Examine the USB drive contents and identify the purpose of the device.",
       "links": ["link26"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Forensic Challenge 18",
       "level": "Intermediate",
       "text": "Analyze the firewall logs and identify the unauthorized access attempt.",
       "links": ["link27"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Forensic Challenge 19",
       "level": "Advanced",
       "text": "Recover the deleted browser history entries from the provided system image.",
       "links": ["link28", "link29"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Forensic Challenge 20",
       "level": "Expert",
       "text": "Examine the network traffic for signs of a Man-in-the-Middle attack.",
       "links": ["link30", "link31"],
-      "hintAvailable": false
+      "hint": "---"
     }
   ],
 
@@ -301,140 +301,140 @@
       "level": "Beginner",
       "text": "Identify and fix the security vulnerability in the given HTML form.",
       "links": ["link1", "link2"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Web Challenge 2",
       "level": "Intermediate",
       "text": "Exploit the SQL injection vulnerability in the login page to bypass authentication.",
       "links": ["link3"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Web Challenge 3",
       "level": "Advanced",
       "text": "Locate and exploit the Cross-Site Scripting (XSS) vulnerability in the web application.",
       "links": ["link4", "link5"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Web Challenge 4",
       "level": "Expert",
       "text": "Identify and fix the security misconfiguration in the web server settings.",
       "links": ["link6", "link7"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Web Challenge 5",
       "level": "Beginner",
       "text": "Discover and exploit the Insecure Direct Object References (IDOR) vulnerability.",
       "links": ["link8"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Web Challenge 6",
       "level": "Intermediate",
       "text": "Bypass client-side validation to submit a form with manipulated data.",
       "links": ["link9"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Web Challenge 7",
       "level": "Advanced",
       "text": "Locate and exploit the Remote File Inclusion (RFI) vulnerability in the application.",
       "links": ["link10", "link11"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Web Challenge 8",
       "level": "Expert",
       "text": "Analyze and fix the Cross-Site Request Forgery (CSRF) vulnerability in the web app.",
       "links": ["link12", "link13"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Web Challenge 9",
       "level": "Beginner",
       "text": "Identify and fix the security vulnerability related to session management.",
       "links": ["link14"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Web Challenge 10",
       "level": "Intermediate",
       "text": "Exploit the Command Injection vulnerability to execute arbitrary commands.",
       "links": ["link15"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Web Challenge 11",
       "level": "Advanced",
       "text": "Locate and exploit the XML External Entity (XXE) vulnerability in the application.",
       "links": ["link16", "link17"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Web Challenge 12",
       "level": "Expert",
       "text": "Analyze and fix the security vulnerability related to HTTP security headers.",
       "links": ["link18", "link19"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Web Challenge 13",
       "level": "Beginner",
       "text": "Identify and exploit the security vulnerability in the file upload functionality.",
       "links": ["link20"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Web Challenge 14",
       "level": "Intermediate",
       "text": "Exploit the Cross-Origin Resource Sharing (CORS) misconfiguration.",
       "links": ["link21"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Web Challenge 15",
       "level": "Advanced",
       "text": "Locate and exploit the security vulnerability related to access control.",
       "links": ["link22", "link23"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Web Challenge 16",
       "level": "Expert",
       "text": "Analyze and fix the security vulnerability related to input validation.",
       "links": ["link24", "link25"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Web Challenge 17",
       "level": "Beginner",
       "text": "Identify and fix the security vulnerability in the authentication process.",
       "links": ["link26"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Web Challenge 18",
       "level": "Intermediate",
-      "text": "Exploit the security vulnerability in the web server's directory listing.",
+      "text": "Exploit the security vulnerability in the web server"s directory listing.",
       "links": ["link27"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Web Challenge 19",
       "level": "Advanced",
       "text": "Locate and exploit the security vulnerability related to cross-site scripting (XSS).",
       "links": ["link28", "link29"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Web Challenge 20",
       "level": "Expert",
       "text": "Analyze and fix the security vulnerability related to insecure dependencies.",
       "links": ["link30", "link31"],
-      "hintAvailable": false
+      "hint": "---"
     }
   ],
 
@@ -447,140 +447,140 @@
       "level": "Beginner",
       "text": "Reverse engineer the given binary to find the hidden message.",
       "links": ["link1", "link2"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Reverse Challenge 2",
       "level": "Intermediate",
       "text": "Analyze and modify the provided executable to achieve a specific behavior.",
       "links": ["link3"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Reverse Challenge 3",
       "level": "Advanced",
       "text": "Crack the protection mechanism of the given software and bypass the license check.",
       "links": ["link4", "link5"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Reverse Challenge 4",
       "level": "Expert",
       "text": "Unpack and analyze the packed executable to reveal its original code.",
       "links": ["link6", "link7"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Reverse Challenge 5",
       "level": "Beginner",
       "text": "Examine the network communication of the given application to understand its protocol.",
       "links": ["link8"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Reverse Challenge 6",
       "level": "Intermediate",
       "text": "Modify the behavior of the provided malware sample to achieve a different outcome.",
       "links": ["link9"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Reverse Challenge 7",
       "level": "Advanced",
       "text": "Analyze the obfuscated code and reveal the original logic of the software.",
       "links": ["link10", "link11"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Reverse Challenge 8",
       "level": "Expert",
       "text": "Reverse engineer the custom encryption algorithm used in the given binary.",
       "links": ["link12", "link13"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Reverse Challenge 9",
       "level": "Beginner",
       "text": "Identify and patch the security vulnerability in the provided cracked software.",
       "links": ["link14"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Reverse Challenge 10",
       "level": "Intermediate",
       "text": "Recover the original source code from the stripped binary executable.",
       "links": ["link15"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Reverse Challenge 11",
       "level": "Advanced",
       "text": "Decipher the custom encoding scheme used in the communication protocol.",
       "links": ["link16", "link17"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Reverse Challenge 12",
       "level": "Expert",
       "text": "Analyze the memory dump of the running process to identify its runtime behavior.",
       "links": ["link18", "link19"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Reverse Challenge 13",
       "level": "Beginner",
       "text": "Identify and reverse the anti-debugging techniques used in the given binary.",
       "links": ["link20"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Reverse Challenge 14",
       "level": "Intermediate",
       "text": "Analyze the packed executable to reveal the original import and export functions.",
       "links": ["link21"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Reverse Challenge 15",
       "level": "Advanced",
       "text": "Crack the password-protected archive and extract the hidden content.",
       "links": ["link22", "link23"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Reverse Challenge 16",
       "level": "Expert",
       "text": "Identify and reverse the custom protocol used for communication between components.",
       "links": ["link24", "link25"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Reverse Challenge 17",
       "level": "Beginner",
       "text": "Analyze and modify the firmware to achieve a specific modification in behavior.",
       "links": ["link26"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Reverse Challenge 18",
       "level": "Intermediate",
       "text": "Decrypt the encrypted strings in the given binary to reveal the hidden messages.",
       "links": ["link27"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Reverse Challenge 19",
       "level": "Advanced",
       "text": "Crack the obfuscated code and understand the logic behind the software protection.",
       "links": ["link28", "link29"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Reverse Challenge 20",
       "level": "Expert",
       "text": "Recover the algorithm used to generate the license keys for the protected software.",
       "links": ["link30", "link31"],
-      "hintAvailable": false
+      "hint": "---"
     }
   ],
 
@@ -593,140 +593,140 @@
       "level": "Beginner",
       "text": "Exploit the buffer overflow vulnerability in the given C program.",
       "links": ["link1", "link2"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Binary Exploitation Challenge 2",
       "level": "Intermediate",
       "text": "Perform a ret2libc attack on the provided binary to gain control.",
       "links": ["link3"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Binary Exploitation Challenge 3",
       "level": "Advanced",
       "text": "Exploit the format string vulnerability in the given C program.",
       "links": ["link4", "link5"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Binary Exploitation Challenge 4",
       "level": "Expert",
       "text": "Gain code execution by exploiting the use-after-free vulnerability.",
       "links": ["link6", "link7"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Binary Exploitation Challenge 5",
       "level": "Beginner",
       "text": "Perform a simple stack overflow to modify program behavior.",
       "links": ["link8"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Binary Exploitation Challenge 6",
       "level": "Intermediate",
       "text": "Exploit the given binary by bypassing stack canaries.",
       "links": ["link9"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Binary Exploitation Challenge 7",
       "level": "Advanced",
       "text": "Perform a ROP chain attack to gain control of the program flow.",
       "links": ["link10", "link11"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Binary Exploitation Challenge 8",
       "level": "Expert",
       "text": "Exploit the heap overflow vulnerability in the provided C program.",
       "links": ["link12", "link13"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Binary Exploitation Challenge 9",
       "level": "Beginner",
       "text": "Perform a basic buffer overflow attack to change program behavior.",
       "links": ["link14"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Binary Exploitation Challenge 10",
       "level": "Intermediate",
       "text": "Exploit the given binary by bypassing DEP/NX protection.",
       "links": ["link15"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Binary Exploitation Challenge 11",
       "level": "Advanced",
       "text": "Perform a ret2plt attack on the provided binary.",
       "links": ["link16", "link17"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Binary Exploitation Challenge 12",
       "level": "Expert",
       "text": "Gain control by exploiting the use of unsafe functions in the code.",
       "links": ["link18", "link19"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Binary Exploitation Challenge 13",
       "level": "Beginner",
       "text": "Exploit a simple stack-based buffer overflow to change program flow.",
       "links": ["link20"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Binary Exploitation Challenge 14",
       "level": "Intermediate",
       "text": "Perform a ret2win attack on the given binary.",
       "links": ["link21"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Binary Exploitation Challenge 15",
       "level": "Advanced",
       "text": "Exploit the given binary by crafting a malicious payload.",
       "links": ["link22", "link23"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Binary Exploitation Challenge 16",
       "level": "Expert",
       "text": "Gain control by exploiting a race condition vulnerability.",
       "links": ["link24", "link25"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Binary Exploitation Challenge 17",
       "level": "Beginner",
       "text": "Exploit a stack buffer overflow to change program behavior.",
       "links": ["link26"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Binary Exploitation Challenge 18",
       "level": "Intermediate",
       "text": "Perform a canary leak attack to bypass stack protection.",
       "links": ["link27"],
-      "hintAvailable": false
+      "hint": "---"
     },
     {
       "name": "Binary Exploitation Challenge 19",
       "level": "Advanced",
       "text": "Exploit the binary using a ret2shellcode attack.",
       "links": ["link28", "link29"],
-      "hintAvailable": true
+      "hint": "Here its an example hint, and hint isnt batter or grater then teammet"
     },
     {
       "name": "Binary Exploitation Challenge 20",
       "level": "Expert",
       "text": "Gain control by exploiting a heap-based buffer overflow vulnerability.",
       "links": ["link30", "link31"],
-      "hintAvailable": false
+      "hint": "---"
     }
   ]
 
